@@ -15,17 +15,17 @@ Requires at least: 3.0
 Tested up to: 3.91
 Stable tag: trunk
 
-Replaces the first letter of the post (if it is a letter) on a per-series basis with the font/color/text decoration of your choice, in your theme's CSS file. Requires Organize Series by Darren Ethier (2.4.6 has been tested, but other versions should work). 
+Replaces the first letter of the post (if it is a letter) on a per-series basis with the font/color/text decoration of your choice. Requires Organize Series by Darren Ethier (2.4.6 has been tested, but other versions should work). 
 
 Solo Dei Gloria
 
 == Description ==
 
-The first letter of a post (provided that the post does not start with an image or a series of HTML tags -- some basic parsing to check this takes place) is modified as specified in the corresponding CSS class. This works even in posts that are split up into pages.  
+The first letter of a post is modified as specified in the corresponding CSS class. This works even in posts that are split up into pages (e.g. Wp-PageNavi).  
 
-An options page for the plugin includes specifying the CSS class name for each series.
+The options page allows you to specify the CSS class name for each series. You add the CSS class(es) to your theme's CSS file.
 
-NOTE: I have assumed that each site will have 10 or less series.  
+NOTE: Assumed that each site has 10 or fewer series.  
 
 To format the initial letter of each post in a series, you must:
     * specify a CSS class name for each series on the options page
@@ -39,6 +39,7 @@ To format the initial letter of each post in a series, you must:
 
 NOTE: '' is the default value. Nothing will happen if you leave the field for a series untouched. 
 
+4. Add the class definition(s) to your theme's CSS file. 
 
 == Frequently Asked Questions ==
 
