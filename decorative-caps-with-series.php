@@ -32,7 +32,7 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 */
 
 //This is needed so that we can use some functions with Organize Series. 
-include( plugin_dir_path( __FILE__).'../organize-series/orgSeries-taxonomy.php');
+include_once( plugin_dir_path( __FILE__).'../organize-series/orgSeries-taxonomy.php');
 
 // Call to the plugin options page, so the user can set the plugin options. 
 if ( function_exists("is_plugin_page") && is_plugin_page() ) {
