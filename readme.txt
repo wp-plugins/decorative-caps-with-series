@@ -1,23 +1,22 @@
 === Decorative Caps with Series ===
 I did this.
-7/11/15
+7/12/15
 
-This is based on the plugin "Decorative Caps" by Pianosteve. 
+This is based on the plugin "Decorative Caps" by Steve Sensenig. 
 
-This plugin requires Organize Series by Darren Ethier (2.4.6 has been tested but other versions should work). It serves no purpose without it. If you need decorative caps functionality without series, use the Decorative Caps plugin by Pianosteve. 
+This plugin requires Organize Series by Darren Ethier (2.4.6 has been tested but other versions should work). It serves no purpose without it. If you need decorative caps functionality without series, use the Decorative Caps plugin by Steve Sensenig. 
 
 
 === Decorative Caps with Series ===
 Contributors: RhapsodyInProse
-Donate link: Scintilliarium.com
-Tags: formatting, decorative caps, series
+Tags: formatting, decorative caps, series, initial caps
 Requires at least: 3.0
 Tested up to: 4.2.2
 Stable tag: 2.1
 
-Replaces the first letter of the post (if it is a letter) on a per-series basis with the font/color/text decoration of your choice, in your theme's CSS file. Requires Organize Series by Darren Ethier (2.4.6 has been tested, but other versions should work). 
+Replaces the first letter of the post on a per-series basis with the font/color/text decoration of your choice, in your theme CSS file. Requires Organize Series by Darren Ethier (2.4.6 has been tested, but other versions should work). 
 
-Solo Dei Gloria
+Soli Deo Gloria
 
 == Description ==
 

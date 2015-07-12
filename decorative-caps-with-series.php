@@ -2,7 +2,7 @@
 /*
 Plugin Name: Decorative Caps With Series
 Plugin URI: http://www.intaligo.com/decorative-caps-with-series.zip
-Version: 2.0
+Version: 2.1
 Author: Mike Tulloch
 Author URI: http://www.intaligo.com
 Description: Change the first letter of a series post to a decorative cap via css.
@@ -10,10 +10,10 @@ Description: Change the first letter of a series post to a decorative cap via cs
 Based on Decorative Caps, by Steve Sensenig.
 This plugin interfaces with and requires Organize Series by Darren Ethier.  
 
-Tested with WP 3.9.1 / Organize Series 2.4.6 / WP-PageNavi 2.8.5 
+Tested with WP 4.2.2 / Organize Series 2.4.6 / WP-PageNavi 2.8.5 
 Other versions *should* work, but have not been tested.
 
-Solo Dei Gloria
+Soli Deo Gloria
 */
 
 /* This program is free software; you can redistribute it and/or modify
