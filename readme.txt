@@ -13,9 +13,9 @@ Donate link: Scintilliarium.com
 Tags: formatting, decorative caps, series
 Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 2.0.1
+Stable tag: 2.1
 
-Replaces the first letter of the post (if it is a letter) on a per-series basis with the font/color/text decoration of your choice, in your theme's CSS file. Requires Organize Series by Darren Ethier (2.4.6 has been tested, but other versions should work). 
+Replaces the first letter of the post (if it is a letter) on a per-series basis with the font/color/text decoration of your choice, in your theme CSS file. Requires Organize Series by Darren Ethier (2.4.6 has been tested, but other versions should work). 
 
 Solo Dei Gloria
 
@@ -48,5 +48,5 @@ I will fix bugs. However, please don't be a turd.
 
 == Changelog ==
 
-= 2.0.1 =
+= 2.1 =
 * Fixed include statement so plugin works with non-local hosts (duh).
