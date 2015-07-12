@@ -16,7 +16,6 @@ Stable tag: 2.1
 
 Replaces the first letter of the post on a per-series basis with the font/color/text decoration of your choice, in your theme CSS file.  
 
-Soli Deo Gloria
 
 == Description ==
 
