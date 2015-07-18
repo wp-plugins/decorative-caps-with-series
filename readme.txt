@@ -19,6 +19,8 @@ Replaces the first letter of the post on a per-series basis with the font/color/
 
 == Description ==
 
+This plugin requires Organize Series by Darren Ethier (2.4.6 has been tested but other versions should work). It serves no purpose without it. If you need decorative caps functionality without series, use the Decorative Caps plugin by Steve Sensenig.
+
 The first letter of a post (provided that the post does not start with an image or a series of HTML tags -- some basic parsing to check this takes place) is modified as specified in the corresponding CSS class. This works even in posts that are split up into pages.  
 
 An options page for the plugin includes specifying the CSS class name for each series.
